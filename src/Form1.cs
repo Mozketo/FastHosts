@@ -16,7 +16,11 @@ namespace FastHost
         public Form1()
         {
             InitializeComponent();
-            var p = Hosts.Path;
+            var items = new Hosts().Read();
+            foreach (var item in items)
+            {
+                Console.WriteLine($"Line:{item.I} {item.IsEnabled} '{item.Value}'");
+            }
         }
     }
 }
