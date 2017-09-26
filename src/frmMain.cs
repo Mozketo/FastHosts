@@ -1,4 +1,4 @@
-﻿using FastHosts.Infrastructure;
+﻿using HW.Infrastructure;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -9,11 +9,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FastHost
+namespace HW
 {
-    public partial class Form1 : Form
+    public partial class frmMain : Form
     {
-        public Form1()
+        public frmMain()
         {
             InitializeComponent();
             var items = new Hosts().Read();

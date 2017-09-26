@@ -1,4 +1,4 @@
-﻿using FastHosts.Infrastructure.Ext;
+﻿using HW.Infrastructure.Ext;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FastHosts.Infrastructure
+namespace HW.Infrastructure
 {
     sealed class Host
     {

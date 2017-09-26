@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FastHosts")]
+[assembly: AssemblyTitle("HostsWrangler")]
 [assembly: AssemblyDescription("Fast and easy way to enable/disable host entries on Windows (.net 4.7)")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Ben Clark-Robinson")]
-[assembly: AssemblyProduct("FastHost")]
+[assembly: AssemblyProduct("HostsWrangler")]
 [assembly: AssemblyCopyright("Copyright © Ben Clark-Robinson 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -1,4 +1,4 @@
-﻿namespace FastHosts.Infrastructure.Ext
+﻿namespace HW.Infrastructure.Ext
 {
     public static class StringEx
     {

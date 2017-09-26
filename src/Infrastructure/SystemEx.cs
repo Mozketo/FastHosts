@@ -1,4 +1,4 @@
-﻿namespace FastHosts.Infrastructure
+﻿namespace HW.Infrastructure
 {
     using System.Security.Principal;
 
